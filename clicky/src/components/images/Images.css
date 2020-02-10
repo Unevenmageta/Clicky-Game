@@ -1,0 +1,24 @@
+.imageCard {
+    background:black;
+    border-radius: 1px;
+    height: 275px;
+    margin: 1rem;
+    position: relative;
+    width: 300px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+  }
+  img{
+      height: 200px;
+      width: 250px;
+  }
+  .image > .container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    background:rgb(238, 238, 238);
+  }
+  .card > .container > img {
+    width: 60%
+  }
+  
